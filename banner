@@ -1,0 +1,5 @@
+.userBanner.userBanner.TradeModerator {
+    color: #000;
+    background: #FF4500;
+    border-color: #e67e22;
+}
