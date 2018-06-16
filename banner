@@ -3,3 +3,9 @@
     background: #FF4500;
     border-color: #e67e22;
 }
+
+.userBanner.userBanner.SpawnEditor {
+    color: #000;
+    background: #098A96;
+    border-color: #45ABB5;
+}
